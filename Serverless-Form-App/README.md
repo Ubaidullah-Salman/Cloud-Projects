@@ -72,7 +72,7 @@ Serverless-Form-App/
 
 ## Live Demo
 
-> Form live at: `http://my-serverless-form-app.s3-website-us-east-1.amazonaws.com/`  
+> Form live at: http://my-serverless-form-app.s3-website-us-east-1.amazonaws.com/
 > Submissions stored in DynamoDB table: `FormSubmissions`
 
 ---
