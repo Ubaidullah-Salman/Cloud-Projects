@@ -9,7 +9,7 @@ phases:
   pre_build:
     commands:
       - cd flask-cicd-app
-      - echo Running tests...
+      - echo Running tests....
       - pytest tests/
   build:
     commands:
