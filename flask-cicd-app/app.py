@@ -6,7 +6,8 @@ app = Flask(__name__)
 def home():
     return '''
     <h1>Flask CI/CD Pipeline on AWS Cloud</h1>
-    <p>Deployed automatically via CodePipeline → CodeBuild → CodeDeploy</p>
+    <h2>Deployed automatically via CodePipeline → CodeBuild → CodeDeploy</h2>
+    <h3>Fully AWS CI/CD Pipeline Working Project</h3>
     '''
 
 @app.route('/health')
